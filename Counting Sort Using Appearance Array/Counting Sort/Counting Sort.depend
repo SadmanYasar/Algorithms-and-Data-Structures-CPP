@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619974702 source:g:\c++\cpp projects\algorithms and data structures\setting things up\counting sort using appearance array\counting sort\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

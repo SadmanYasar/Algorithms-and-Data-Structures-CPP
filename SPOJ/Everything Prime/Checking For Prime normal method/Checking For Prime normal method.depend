@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1624461860 source:g:\c++\cpp projects\spoj\checking for prime normal method\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1624461860 source:g:\c++\cpp projects\spoj\everything prime\checking for prime normal method\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

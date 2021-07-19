@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620395776 source:g:\c++\cpp projects\algorithms and data structures\setting things up\queue practical excercise\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

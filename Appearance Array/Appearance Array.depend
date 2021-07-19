@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619867731 source:g:\c++\cpp projects\algorithms and data structures\setting things up\appearance array\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

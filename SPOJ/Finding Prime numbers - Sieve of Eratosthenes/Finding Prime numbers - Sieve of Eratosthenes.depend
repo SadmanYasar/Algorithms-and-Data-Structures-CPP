@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624472726 source:g:\c++\cpp projects\spoj\finding prime numbers - sieve of eratosthenes\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

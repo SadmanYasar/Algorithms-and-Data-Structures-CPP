@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626090360 source:g:\c++\cpp projects\spoj\segmented sieve\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620217007 source:g:\c++\cpp projects\algorithms and data structures\setting things up\stack\check parenthesis expression\check parenthesis expression\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

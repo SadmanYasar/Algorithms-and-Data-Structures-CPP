@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625066752 source:g:\c++\cpp projects\algorithms and data structures\hash table\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

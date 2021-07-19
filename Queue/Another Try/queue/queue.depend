@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620659754 source:g:\c++\cpp projects\algorithms and data structures\setting things up\queue\another try\queue\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

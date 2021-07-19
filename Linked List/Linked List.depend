@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624121575 source:g:\c++\cpp projects\algorithms and data structures\setting things up\linked list\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
